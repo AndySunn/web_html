@@ -1,0 +1,100 @@
+@media screen and (min-width:200px ) {
+	
+ .nav{
+ 	height: 117px;
+		background-color: rgba(0,0,0,0.4);
+		box-shadow: 3px 7px 37px brown;
+		border-radius: 30px;
+		position: fixed;
+    	width: 96%;
+		left: 20px;
+}
+	.logo {
+		height: 44px;
+    	width: 136px;
+    	padding-top: 7px;
+	}
+	.navbar {
+		padding-top: 20px;
+	}
+	span {
+		padding-left: 30px;
+		padding-right: 30px;
+		}
+    .gif {
+    	 max-width: 100%;
+         text-align: center;
+         }
+    .describe{
+    background-color: lightblue;
+	margin-top: 50px;
+	text-indent: 2em;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	border-top: 1px #e8e8e8 solid;
+	border-bottom: 1px #e8e8e8 solid;
+	font-size: 1.2em;
+	color: #666666;
+	font-family:STKaiti,"å¾®è½¯é›…é»‘";
+}
+.company-img{
+    margin: 2% auto;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    }
+.Icon{
+	  	position: static;
+  		width: 17rem;
+  		background: wheat;
+  		border-radius: 30px;
+  		box-shadow: 0 5px 20px #bbb;
+  		box-sizing:border-box;
+/*  		padding: 25px; */
+  		margin: 3% 3%;
+  		text-align: center;
+  		display: inline-block;
+  		}
+.Icon:hover{
+	box-shadow: 7px 7px 7px #000000;
+	transform: scale(1.1)
+	}  		
+	
+.Icon img {
+	text-align: left;
+	padding-top: 20px;
+}
+
+footer {
+		background: #e0e0e0;
+		position: relative;
+		width: 100%;
+		margin-top: 40px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		text-shadow: 2px 2px 2px white;
+		color: black;
+		overflow: hidden;
+		border-radius: 30px;
+		}
+		
+.footer-left{
+	float:left;
+		width: 49%;
+		display: inline-block;
+}
+
+.footer-right{
+	border-left: 2px #bcbcbc dotted;
+		float:right;
+		width: 49%;
+		display: inline-block;
+		}
+			
+	contact p{
+		margin-left: 3%;
+	}
+	contact img {
+		margin-left: 3%;
+		width: 23%;
+}
